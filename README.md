@@ -11,7 +11,7 @@ liri can take in one of the following commands:
 
    * node liri.js do-what-it-says
    
-   **node liri.js spotify-this-song <song name here>**
+   **node liri.js spotify-this-song<song name here>**
   Liri will retrieve song information like Artist(s), The song's name, A preview link of the song, The album of song from the Spotify API 
   
 ![Screenshot](images/SpotifyScreenshot.jpg)
@@ -30,5 +30,6 @@ liri can take in one of the following commands:
    Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call spotify-this-song "I Want it That        Way," as follows the text in `random.txt`.
 
 ![Screenshot](images/Doitasitsays.jpg)
+     
      
 [Screenshot](images/random.jpg)
