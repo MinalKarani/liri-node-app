@@ -1,0 +1,96 @@
+spotify-this-song thank+you
+=============================
+Artist:Ariana Grande
+Song: thank u, next
+Preview link: null
+Album: thank u, next
+=========================
+do-what-it-says 
+spotify-this-song "I Want it That Way"
+=============================
+Artist:Backstreet Boys
+Song: I Want It That Way
+Preview link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=7abac33010864243a2f3f390a902176b
+Album: The Hits--Chapter One
+=========================
+concert-this skrillex
+=========================
+Venue name: EDC Mexico (Feb 23-24)
+At: Mexico City, , Mexico
+02-23-2019
+=========================
+=========================
+Venue name: DOG BLOOD @ BUKU [MAR 22-23]
+At: New Orleans, LA, United States
+03-22-2019
+=========================
+=========================
+Venue name: DOG BLOOD @ Sunset Music Festival [May 25-26]
+At: Tampa, FL, United States
+05-25-2019
+=========================
+movie-this spiderman
+=========================
+Title: Spiderman,
+Year: 1990, 
+IMDB Rating: 5.7, 
+Rotten Tomatoes Rating: 5.7/10,
+Country: Switzerland,
+Language: German,
+Plot: N/A,
+Actors: N/A
+=========================
+movie-this spi
+=========================
+Sorry, OMDB could not find information about the movie title, please try again!
+=========================
+spotify-this-song tha
+=========================
+Sorry, Spotify could not find information about the title, please try again!
+=========================
+movie-this escape+room
+=========================
+Title: Escape Room,
+Year: 2019, 
+IMDB Rating: 6.4, 
+Rotten Tomatoes Rating: 6.4/10,
+Country: South Africa, USA,
+Language: English,
+Plot: Six strangers find themselves in circumstances beyond their control, and must use their wits to survive.,
+Actors: Taylor Russell, Logan Miller, Jay Ellis, Tyler Labine
+=========================
+movie-this glass
+=========================
+Title: Glass,
+Year: 2019, 
+IMDB Rating: 7.3, 
+Rotten Tomatoes Rating: 7.3/10,
+Country: USA,
+Language: English,
+Plot: Security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities.,
+Actors: James McAvoy, Bruce Willis, Samuel L. Jackson, Anya Taylor-Joy
+=========================
+concert-this the+beatles
+=========================
+Sorry, Bandsintown could not find information, please try again!
+=========================
+concert-this green+day
+=========================
+Sorry, Bandsintown could not find information, please try again!
+=========================
+concert-this BTS
+=========================
+Venue name: CINEMA LE PALACE
+At: Martigues, , France
+01-26-2019
+=========================
+=========================
+Venue name: 福岡 Yahoo! JAPAN ドーム
+At: 福岡市, 福岡県, 日本
+02-16-2019
+=========================
+=========================
+Venue name: 福岡 Yahoo! JAPAN ドーム
+At: 福岡市, 福岡県, 日本
+02-17-2019
+=========================
