@@ -13,7 +13,8 @@ liri can take in one of the following commands:
    
    __node liri.js spotify-this-song <song name here>__
   Liri will retrieve song information like Artist(s), The song's name, A preview link of the song, The album of song from the Spotify API 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Screenshot](images/SpotifyScreenshot.jpg)
+  
   
   
   
