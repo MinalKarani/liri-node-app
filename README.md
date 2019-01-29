@@ -16,12 +16,22 @@ liri can take in one of the following commands:
   Liri will retrieve song information like Artist(s), The song's name, A preview link of the song, The album of song from the Spotify API 
   
 ![Screenshot](images/SpotifyScreenshot.jpg)
+
+If no song is provided then Liri will default to **"The Sign"** by Ace of Base
+
+
+![Screenshot](images/spotifyAce.jpg)
   
   **node liri.js movie-this _movie name here_**
   
   This will search the OMDB API for the movie and render Title of the movie,Year the movie came out,IMDB Rating of the movie,Rotten           Tomatoes Rating of the movie,Country where the movie was produced,Language of the movie,Plot of the movie,Actors in the movie
   
   ![Screenshot](images/OMDB.jpg)
+  
+  If the user doesn't type a movie in, Liri will output data for the movie **'Mr. Nobody.'**
+  
+    ![Screenshot](images/movieMrNobody.jpg)
+
   
   **node liri.js concert-this _artist/band name here**_
   
